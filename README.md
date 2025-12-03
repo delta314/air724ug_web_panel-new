@@ -51,7 +51,7 @@ docker-compose up -d
 
 ### WEB端开发指南
 
-基于开源的框架二次开发，冗余代码未处理，[效果预览](https://github.com/TheHot/air724ug_web_panel/blob/main/example.jpg?raw=true)
+基于开源的框架二次开发，冗余代码未处理，[效果预览](https://github.com/delta314/air724ug_web_panel-new/blob/main/example.jpg?raw=true)
 
 ```shell
 
